@@ -5,7 +5,7 @@
 - 👨‍💻 My full name is Nguyen Xuan Tung (🤔 Cedrus)
 - 🤵 A Software Developer
 - 🌍 I'm currently living in Hanoi, VietNam
-![<NXTung1102000>'s Stats](https://github-readme-stats.vercel.app/api?username=<NXTung1102000>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![NXTung1102000's Stats](https://github-readme-stats.vercel.app/api?username=NXTung1102000&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ## 💼 My Work
 
 - I’m currently working on AvePoint Vietnam
