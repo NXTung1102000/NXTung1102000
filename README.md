@@ -10,7 +10,7 @@
 
 ## 💼 My Work
 
-- I’m currently working on AvePoint Vietnam
+- I’m currently working on VietinBank
 
 ## 🏫 Education
 
