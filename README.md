@@ -10,11 +10,11 @@
 
 ## 💼 My Work
 
-- I’m currently working on VietinBank
+- I’m currently working on VietinBank, developing and supporting LOS - Loan Origination System
 
 ## 🏫 Education
 
-- I’m currently studying Computer Science at Hanoi University of Science and Technology - HUST
+- I graduated with a degree in Computer Science from Hanoi University of Science and Technology - HUST
 
 ## ✍️ Project
 
@@ -27,28 +27,36 @@
 ## 🧐 Skills
 
 - Programming Languages:
-[![C++](https://img.shields.io/badge/-C/C++-00599C?&logo=CPlusPlus)](https://learn.microsoft.com/vi-vn/cpp/cpp)
-[![C#](https://img.shields.io/badge/-CSharp-512BD4?&logo=CSharp)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?&logo=openjdk&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![C#](https://img.shields.io/badge/-C%23-512BD4?&logo=dotnet)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-35495E?&logo=JavaScript)](https://www.w3schools.com/js/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-fff?&logo=TypeScript)](https://www.typescriptlang.org/)
 [![Python](https://img.shields.io/badge/-Python-fff?&logo=python)](https://www.python.org/)
+[![C++](https://img.shields.io/badge/-C/C++-00599C?&logo=CPlusPlus)](https://learn.microsoft.com/vi-vn/cpp/cpp)
 
-- Front-end Framework:
+- Frontend Framework and Library:
 [![ReactJS](https://img.shields.io/badge/-React%20JS-00599C?&logo=react)](https://react.dev/)
 [![VueJS](https://img.shields.io/badge/Vue%20JS-35495E?logo=vuedotjs&logoColor=4FC08D)](https://vuejs.org/)
 [![Redux](https://img.shields.io/badge/-Redux-764ABC?&logo=redux)](https://redux.js.org/)
 
-- Back-end Framework:
-[![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?&logo=dotnet)](https://learn.microsoft.com/vi-vn/aspnet/core)
-[![Express](https://img.shields.io/badge/Express-444?logo=nodedotjs)](https://expressjs.com/)
+- Backend Framework and Library:
+[![Spring](https://img.shields.io/badge/Spring%20&%20JPA-6DB33F?style=flat-square&logo=Spring&logoColor=white)](https://spring.io/)
+[![ASP.NET](https://img.shields.io/badge/ASP.NET%20&%20EFCore-512BD4?&logo=dotnet)](https://learn.microsoft.com/vi-vn/aspnet/core)
+[![Express](https://img.shields.io/badge/Express%20&%20Sequelize-444?logo=nodedotjs)](https://expressjs.com/)
 
 - Database
-[![SQL-Server](https://img.shields.io/badge/-SQL%20Server-CC2927?&logo=microsoftsqlserver)](https://www.microsoft.com/en-us/sql-server)
+[![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=Oracle&logoColor=white)](https://www.oracle.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?&logo=PostgreSQL&logoColor=white)](https://www.postgresql.org/)
+[![SQL-Server](https://img.shields.io/badge/SQL%20Server-CC2927?&logo=MSSQL)](https://www.microsoft.com/en-us/sql-server)
 [![MySQL](https://img.shields.io/badge/MySQL-fff?logo=mysql)](https://www.mysql.com/)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?logo=Redis&logoColor=white)](https://www.mysql.com/)
 
 - Tool:
+[![Intellij Idea](https://img.shields.io/badge/Intellij%20Idea-fff?logo=intellij-idea&logoColor=black)](https://www.jetbrains.com/idea/)
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?&logo=visualstudiocode)](https://code.visualstudio.com/)
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio)](https://visualstudio.microsoft.com/)
+[![Dbeaver](https://img.shields.io/badge/Dbeaver-fff?logo=dbeaver&logoColor=gray)](https://dbeaver.io/)
+[![SQLDeveloper](https://img.shields.io/badge/SQLDeveloper-F80000?logo=SQLDeveloper)](https://www.oracle.com/vn/database/sqldeveloper/)
 [![Git](https://img.shields.io/badge/Git-fff?logo=git)](https://git-scm.com/)
 
 ---
@@ -56,10 +64,16 @@
 
 <p align="left">
   <a href="https://github.com/NXTung1102000" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" alt="Github" width="32" height="32" />
   </a>  
   <a href="https://www.facebook.com/nxtung1102000" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" alt="Facebook" width="32" height="32" />
+  </a>
+  <a href="https://www.linkedin.com/in/nxtung1102000" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="Linkedin" width="32" height="32" />
+  </a>
+  <a href="mailto:nxtung.developer@gmail.com">
+    <img src="https://static-00.iconduck.com/assets.00/gmail-icon-1024x1024-09wrt8am.png" alt="Gmail" width="32" height="32" />
   </a>
 </p>
 
@@ -69,4 +83,4 @@
 
 - 📡 Science never sleep !
 - 🦮 I wanna have an Alaska Dog.
-- ⚽ I like playing sport...
+- ⚽ I like playing sports, ...
